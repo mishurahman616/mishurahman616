@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mishurahman616
+- 👋 Hi, I’m Mishu Rahman
 - 👀 I’m interested in Software Engineering, Software Development
 - 🌱 I’m currently learning Laravel and ReactJS
 
