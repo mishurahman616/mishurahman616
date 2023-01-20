@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mishu Rahman
 - 👀 I’m interested in Software Engineering, Software Development
-- 🌱 I’m currently learning C# - .Net and ReactJS
+- 🌱 I’m currently learning C# - .Net
 
 
 <!---
