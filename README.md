@@ -2,5 +2,5 @@
 - 👀 I’m interested in Software Engineering, Software Development
 - 🌱 I’m currently working with C# - DotNet
   
-  [Portfolio]([https://example.com](https://mishurahman616.github.io/portfolio/))
+  [Portfolio](https://mishurahman616.github.io/portfolio/)
 
